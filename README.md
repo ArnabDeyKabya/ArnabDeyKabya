@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://ArnabDeyKabya.io)
 <h1 align="center">Hi There 👋, I'm Arnab Dey</h1>
-<h3 align="center">Motivated and skilled Computer Science student with expertise in database management, web development, Data Structures and Algorithms</h3>
+<h3 align="center">Motivated and skilled Computer Science student with expertise in <em>Object Oriented Programming, Database Management, Web Development and Data Structures & Algorithms</em></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabdeykabya&label=Profile%20views&color=0e75b6&style=flat" alt="arnabdeykabya" /> </p>
